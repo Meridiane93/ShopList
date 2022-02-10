@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="note_style_array">
+        <item>Вертикальный</item>
+        <item>Табличный</item>
+    </string-array>
+
+    <string-array name="note_style_values">
+        <item>Вертикальный</item>
+        <item>Табличный</item>
+    </string-array>
+
+    <string-array name="time_format_array">
+        <item>Русский формат</item>
+        <item>Американский формат</item>
+    </string-array>
+
+    <string-array name="time_format_values">
+        <item>hh:mm:ss - dd/MM/yy</item>
+        <item>hh:mm:ss - yyyy/MM/dd</item>
+    </string-array>
+
+    <string-array name="theme_array">
+        <item>Зелёная тема</item>
+        <item>Синяя тема</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>blue</item>
+        <item>green</item>
+    </string-array>
+
+    <string-array name="text_size_array">
+        <item>12 sp</item>
+        <item>14 sp</item>
+        <item>16 sp</item>
+        <item>18 sp</item>
+        <item>20 sp</item>
+    </string-array>
+
+    <string-array name="text_size_values">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+    </string-array>
+</resources>

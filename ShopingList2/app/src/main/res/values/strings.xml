@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="inter_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="settings">Settings</string>
+    <string name="notes">Notes</string>
+    <string name="shop_list">Shop list</string>
+    <string name="new_item">New</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="edTitle_hint">Заголовок</string>
+    <string name="edDesc_hint">Содержание</string>
+    <string name="new_list_dialog">Новый список покупок</string>
+    <string name="new_list_name_dialog">Введите название</string>
+    <string name="button_text_dialog">Добавить</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delet_text_dialog">Удалить</string>
+    <string name="check_delet">Вы действительно хотите удалить?</string>
+    <string name="button_text_dialogs">Отменить</string>
+    <string name="update_text_dialogs">Обновить</string>
+    <string name="update_text_dialogs_item">Обновить данные</string>
+    <string name="text_dialogs_name">Name</string>
+    <string name="text_dialogs_info">Information</string>
+    <string name="text_empty">Нет данных</string>
+
+    <string name="text_general">Категория</string>
+    <string name="text_chose_note_style">Выбрать стиль</string>
+
+    <string name="text_time_format">Формат времени</string>
+
+    <string name="remove_ads">Покупка в приложении</string>
+    <string name="remove_ads_summary">Убрать рекламу </string>
+
+    <string name="theme_settings">Настройки темы</string>
+    <string name="chose_theme">Выбрать тему </string>
+
+    <string name="note_text_settings">Настройки размера текста</string>
+    <string name="chose_text_size">Выбрать размер Заголовка</string>
+
+    <string name="title_text_size">Настройки размера текста</string>
+    <string name="content_text_size">Выбрать размер Содержания</string>
+
+
+</resources>
